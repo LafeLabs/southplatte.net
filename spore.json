@@ -9,7 +9,11 @@
     "meta-spore.php",
     "readme.html",
     "save-file.php",
+    "south_platte_24hr.json",
+    "south_platte_river_usgs_stream_gauges.json",
     "spore.json",
     "spore.php",
+    "usgs.ipynb",
+    "usgs.py",
     "wall.txt"
 ]

@@ -1,0 +1,947 @@
+[
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 0.78,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 9.81,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Precipitation (in)",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 0.0,
+    "unit": "in"
+  },
+  {
+    "gauge_id": "USGS-06711618",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 8.15,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711618",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 0.0,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06711770",
+    "parameter": "63160",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 5249.88,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711770",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 0.24,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06711770",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 9.5,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06724970",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 5.28,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06724970",
+    "parameter": "63160",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 4981.24,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06724970",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 0.44,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 0.16,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 0.88,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "63160",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 4938.96,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 87.8,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:40:00+00:00",
+    "value": 1.39,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06701900",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 3.58,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06701900",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 197.0,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06710247",
+    "parameter": "63160",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 5294.44,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06710247",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 13.2,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06710247",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 10.79,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "pH",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 7.6,
+    "unit": "pH Units"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 8.11,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 1.11,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "Specific Conductance",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 1180.0,
+    "unit": "uS/cm"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "00300",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 6.6,
+    "unit": "mg/l"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "Water Temperature (C)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 28.0,
+    "unit": "degC"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 0.78,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 9.81,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Precipitation (in)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 0.0,
+    "unit": "in"
+  },
+  {
+    "gauge_id": "USGS-06711618",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 8.15,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711618",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 0.0,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06711770",
+    "parameter": "63160",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 5249.89,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711770",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 0.26,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06711770",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 9.51,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06712000",
+    "parameter": "63160",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 6171.94,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06712000",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 2.3,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06712000",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 0.62,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06714215",
+    "parameter": "Water Temperature (C)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 26.8,
+    "unit": "degC"
+  },
+  {
+    "gauge_id": "USGS-06714215",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 1.91,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06714215",
+    "parameter": "63160",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 5105.31,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06714215",
+    "parameter": "Specific Conductance",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": null,
+    "unit": "uS/cm"
+  },
+  {
+    "gauge_id": "USGS-06714215",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 42.9,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06721000",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 60.5,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06721000",
+    "parameter": "63160",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 4863.61,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06721000",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 2.89,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 0.16,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 0.88,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06730200",
+    "parameter": "63160",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 5110.45,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06730200",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 4.8,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06730200",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 46.8,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "63160",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 4938.96,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 87.8,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 1.39,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06762500",
+    "parameter": "00020",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 30.6,
+    "unit": "degC"
+  },
+  {
+    "gauge_id": "USGS-06762500",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 0.0,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06762500",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:45:00+00:00",
+    "value": 1.94,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 0.83,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 9.82,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Precipitation (in)",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 0.0,
+    "unit": "in"
+  },
+  {
+    "gauge_id": "USGS-06711770",
+    "parameter": "63160",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 5249.98,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711770",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 0.54,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06711770",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 9.6,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06724970",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 5.27,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06724970",
+    "parameter": "63160",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 4981.23,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06724970",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 0.4,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 0.16,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 0.88,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "63160",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 4938.96,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 87.8,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:50:00+00:00",
+    "value": 1.39,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:55:00+00:00",
+    "value": 0.83,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:55:00+00:00",
+    "value": 9.82,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Precipitation (in)",
+    "time": "2026-07-22 23:55:00+00:00",
+    "value": 0.0,
+    "unit": "in"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:55:00+00:00",
+    "value": 0.16,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:55:00+00:00",
+    "value": 0.88,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "63160",
+    "time": "2026-07-22 23:55:00+00:00",
+    "value": 4938.96,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-22 23:55:00+00:00",
+    "value": 87.8,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-22 23:55:00+00:00",
+    "value": 1.39,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "pH",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 7.6,
+    "unit": "pH Units"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 8.11,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 1.11,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "Specific Conductance",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 1190.0,
+    "unit": "uS/cm"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "00300",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 6.1,
+    "unit": "mg/l"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "Water Temperature (C)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 27.8,
+    "unit": "degC"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 0.83,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 9.82,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Precipitation (in)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 0.0,
+    "unit": "in"
+  },
+  {
+    "gauge_id": "USGS-06712000",
+    "parameter": "63160",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 6171.94,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06712000",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 2.3,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06712000",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 0.62,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06721000",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 60.5,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06721000",
+    "parameter": "63160",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 4863.61,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06721000",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 2.89,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06724970",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 5.28,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06724970",
+    "parameter": "63160",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 4981.24,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06724970",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 0.44,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 0.16,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 0.88,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06730200",
+    "parameter": "63160",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 5110.45,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06730200",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 4.8,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06730200",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 46.8,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "63160",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 4938.95,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 86.4,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:00:00+00:00",
+    "value": 1.38,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:05:00+00:00",
+    "value": 0.78,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:05:00+00:00",
+    "value": 9.81,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711575",
+    "parameter": "Precipitation (in)",
+    "time": "2026-07-23 00:05:00+00:00",
+    "value": 0.0,
+    "unit": "in"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:05:00+00:00",
+    "value": 0.16,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:05:00+00:00",
+    "value": 0.88,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "63160",
+    "time": "2026-07-23 00:05:00+00:00",
+    "value": 4938.95,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:05:00+00:00",
+    "value": 86.4,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:05:00+00:00",
+    "value": 1.38,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06724970",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:10:00+00:00",
+    "value": 5.28,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06724970",
+    "parameter": "63160",
+    "time": "2026-07-23 00:10:00+00:00",
+    "value": 4981.24,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06724970",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:10:00+00:00",
+    "value": 0.44,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:10:00+00:00",
+    "value": 0.16,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:10:00+00:00",
+    "value": 0.88,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "63160",
+    "time": "2026-07-23 00:10:00+00:00",
+    "value": 4938.95,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:10:00+00:00",
+    "value": 86.4,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:10:00+00:00",
+    "value": 1.38,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "pH",
+    "time": "2026-07-23 00:15:00+00:00",
+    "value": 7.6,
+    "unit": "pH Units"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "Specific Conductance",
+    "time": "2026-07-23 00:15:00+00:00",
+    "value": 1190.0,
+    "unit": "uS/cm"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "00300",
+    "time": "2026-07-23 00:15:00+00:00",
+    "value": 5.9,
+    "unit": "mg/l"
+  },
+  {
+    "gauge_id": "USGS-06711565",
+    "parameter": "Water Temperature (C)",
+    "time": "2026-07-23 00:15:00+00:00",
+    "value": 27.7,
+    "unit": "degC"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:15:00+00:00",
+    "value": 0.16,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:15:00+00:00",
+    "value": 0.88,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06730200",
+    "parameter": "63160",
+    "time": "2026-07-23 00:15:00+00:00",
+    "value": 5110.45,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06730200",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:15:00+00:00",
+    "value": 4.8,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06730200",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:15:00+00:00",
+    "value": 46.8,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "63160",
+    "time": "2026-07-23 00:15:00+00:00",
+    "value": 4938.95,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:15:00+00:00",
+    "value": 86.4,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06752260",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:15:00+00:00",
+    "value": 1.38,
+    "unit": "ft"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Streamflow (cfs)",
+    "time": "2026-07-23 00:20:00+00:00",
+    "value": 0.16,
+    "unit": "ft^3/s"
+  },
+  {
+    "gauge_id": "USGS-06730160",
+    "parameter": "Gage Height (ft)",
+    "time": "2026-07-23 00:20:00+00:00",
+    "value": 0.88,
+    "unit": "ft"
+  }
+]

@@ -1,0 +1,233 @@
+{
+  "USGS-06696000": {
+    "name": "SOUTH PLATTE RIVER NEAR LAKE GEORGE, CO.",
+    "lat": 38.90527,
+    "lon": -105.47333,
+    "elevation": 8458.0,
+    "HUC": "10190001"
+  },
+  "USGS-06701630": {
+    "name": "SOUTH PLATTE RIVER BELOW CHEESMAN RESERVOIR, CO.",
+    "lat": 39.20111,
+    "lon": -105.27083,
+    "elevation": 6622.7,
+    "HUC": "10190002"
+  },
+  "USGS-06701700": {
+    "name": "SOUTH PLATTE RIVER AT NORTH FORK NEAR SOUTH PLATTE, CO.",
+    "lat": 39.41054,
+    "lon": -105.17055,
+    "elevation": 6125.0,
+    "HUC": "10190002"
+  },
+  "USGS-06701900": {
+    "name": "SOUTH PLATTE RIVER BLW BRUSH CRK NEAR TRUMBULL, CO.",
+    "lat": 39.25999,
+    "lon": -105.22194,
+    "elevation": 6380.0,
+    "HUC": "10190002"
+  },
+  "USGS-06707500": {
+    "name": "SOUTH PLATTE RIVER AT SOUTH PLATTE, CO.",
+    "lat": 39.41026,
+    "lon": -105.16832,
+    "elevation": 6078.4,
+    "HUC": "10190002"
+  },
+  "USGS-06708000": {
+    "name": "SOUTH PLATTE RIVER MONITORED NATURALLY AT WATTERTON, CO.",
+    "lat": 39.49138,
+    "lon": -105.09332,
+    "elevation": 5480.0,
+    "HUC": "10190002"
+  },
+  "USGS-06709600": {
+    "name": "SOUTH PLATTE RIVER AT LITTLETON, CO.",
+    "lat": 39.61638,
+    "lon": -105.02054,
+    "elevation": 5304.3,
+    "HUC": "10190003"
+  },
+  "USGS-06710247": {
+    "name": "SOUTH PLATTE RIVER BLW UNION AVE AT ENGLEWOOD, CO.",
+    "lat": 39.63417,
+    "lon": -105.01972,
+    "elevation": 5275.0,
+    "HUC": "10190003"
+  },
+  "USGS-06711565": {
+    "name": "SOUTH PLATTE RIVER AT 19TH ST AT DENVER, CO.",
+    "lat": 39.75776,
+    "lon": -105.00804,
+    "elevation": 5163.0,
+    "HUC": "10190003"
+  },
+  "USGS-06711575": {
+    "name": "SOUTH PLATTE RIVER AT 23RD ST AT DENVER, CO.",
+    "lat": 39.76111,
+    "lon": -105.00333,
+    "elevation": 5155.0,
+    "HUC": "10190003"
+  },
+  "USGS-06711618": {
+    "name": "SOUTH PLATTE RIVER AT DENVER WASTEWATER OUTFLOW AT DENVER, CO.",
+    "lat": 39.80333,
+    "lon": -104.95444,
+    "elevation": 5095.0,
+    "HUC": "10190003"
+  },
+  "USGS-06711770": {
+    "name": "SOUTH PLATTE RIVER AT 64TH AVENUE COMMERCE CITY, CO.",
+    "lat": 39.81304,
+    "lon": -104.96026,
+    "elevation": 5085.0,
+    "HUC": "10190003"
+  },
+  "USGS-06711785": {
+    "name": "SOUTH PLATTE RIVER ABOVE CLEAR CREEK NEAR DENVER, CO.",
+    "lat": 39.82278,
+    "lon": -104.96028,
+    "elevation": 5074.0,
+    "HUC": "10190003"
+  },
+  "USGS-06712000": {
+    "name": "SOUTH PLATTE RIVER AT 74TH AVENUE NEAR DERBY, CO.",
+    "lat": 39.83054,
+    "lon": -104.95832,
+    "elevation": 5062.2,
+    "HUC": "10190003"
+  },
+  "USGS-06714000": {
+    "name": "SOUTH PLATTE RIVER AT DENVER, CO.",
+    "lat": 39.75946,
+    "lon": -105.004,
+    "elevation": 5157.6,
+    "HUC": "10190003"
+  },
+  "USGS-06714215": {
+    "name": "SOUTH PLATTE RIVER ABOVE SAND CREEK AT COMMERCE CITY, CO.",
+    "lat": 39.80417,
+    "lon": -104.94556,
+    "elevation": 5090.0,
+    "HUC": "10190003"
+  },
+  "USGS-06720500": {
+    "name": "SOUTH PLATTE RIVER AT HENDERSON, CO.",
+    "lat": 39.92304,
+    "lon": -104.86914,
+    "elevation": 5005.1,
+    "HUC": "10190003"
+  },
+  "USGS-06721000": {
+    "name": "SOUTH PLATTE RIVER AT FORT LUPTON, CO.",
+    "lat": 40.08193,
+    "lon": -104.82108,
+    "elevation": 4887.8,
+    "HUC": "10190003"
+  },
+  "USGS-06724000": {
+    "name": "SOUTH PLATTE RIVER NEAR PLATTEVILLE, CO.",
+    "lat": 40.21748,
+    "lon": -104.83192,
+    "elevation": 4725.7,
+    "HUC": "10190003"
+  },
+  "USGS-06724970": {
+    "name": "SOUTH PLATTE RIVER ABOVE ST. VRAIN CREEK NEAR PLATTEVILLE, CO.",
+    "lat": 40.25248,
+    "lon": -104.88748,
+    "elevation": 4690.0,
+    "HUC": "10190003"
+  },
+  "USGS-06730160": {
+    "name": "SOUTH PLATTE RIVER BELOW ST. VRAIN CREEK NEAR PLATTEVILLE, CO.",
+    "lat": 40.26054,
+    "lon": -104.88581,
+    "elevation": 4680.0,
+    "HUC": "10190003"
+  },
+  "USGS-06730200": {
+    "name": "SOUTH PLATTE RIVER AT MILLIKEN, CO.",
+    "lat": 40.32082,
+    "lon": -104.85692,
+    "elevation": 4650.0,
+    "HUC": "10190003"
+  },
+  "USGS-06741510": {
+    "name": "SOUTH PLATTE RIVER ABOVE CACHE LA POUDRE RIVER NEAR GREELEY, CO.",
+    "lat": 40.41443,
+    "lon": -104.64024,
+    "elevation": 4620.0,
+    "HUC": "10190003"
+  },
+  "USGS-06744000": {
+    "name": "SOUTH PLATTE RIVER NEAR KERSEY, CO.",
+    "lat": 40.41248,
+    "lon": -104.5683,
+    "elevation": 4575.4,
+    "HUC": "10190003"
+  },
+  "USGS-06752260": {
+    "name": "SOUTH PLATTE RIVER NEAR SUBLETTE, CO.",
+    "lat": 40.34748,
+    "lon": -104.42829,
+    "elevation": 4490.0,
+    "HUC": "10190003"
+  },
+  "USGS-06754000": {
+    "name": "SOUTH PLATTE RIVER AT MASTERS, CO.",
+    "lat": 40.3547,
+    "lon": -104.24939,
+    "elevation": 4414.7,
+    "HUC": "10190003"
+  },
+  "USGS-06758500": {
+    "name": "SOUTH PLATTE RIVER NEAR WELDONA, CO.",
+    "lat": 40.32081,
+    "lon": -103.95355,
+    "elevation": 4307.7,
+    "HUC": "10190003"
+  },
+  "USGS-06759500": {
+    "name": "SOUTH PLATTE RIVER AT FORT MORGAN, CO.",
+    "lat": 40.26387,
+    "lon": -103.80161,
+    "elevation": 4218.4,
+    "HUC": "10190003"
+  },
+  "USGS-06760000": {
+    "name": "SOUTH PLATTE RIVER AT BALZAC, CO.",
+    "lat": 40.39082,
+    "lon": -103.52021,
+    "elevation": 4091.1,
+    "HUC": "10190004"
+  },
+  "USGS-06762500": {
+    "name": "SOUTH PLATTE RIVER AT STERLING, CO.",
+    "lat": 40.61332,
+    "lon": -103.18521,
+    "elevation": 3894.4,
+    "HUC": "10190004"
+  },
+  "USGS-06763980": {
+    "name": "SOUTH PLATTE RIVER AT OVID, CO.",
+    "lat": 40.97221,
+    "lon": -102.38603,
+    "elevation": 3515.0,
+    "HUC": "10190004"
+  },
+  "USGS-06764000": {
+    "name": "SOUTH PLATTE RIVER AT JULESBURG, CO.",
+    "lat": 40.97332,
+    "lon": -102.24713,
+    "elevation": 3465.7,
+    "HUC": "10190004"
+  },
+  "USGS-06764200": {
+    "name": "SOUTH PLATTE RIVER AT COLORADO-NEBRASKA STATE LINE",
+    "lat": 41.0022,
+    "lon": -102.05157,
+    "elevation": 3420.0,
+    "HUC": "10190004"
+  }
+}
