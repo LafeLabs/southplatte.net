@@ -1,16 +1,9 @@
-# [spore](https://github.com/lafelabs/spore/)
 
-self-replicating web swarm
+# [south platte dot net](https://github.com/LafeLabs/southplatte.net)
+ 
+## REPLICATION:
 
- - [index.html](index.html)
- - [editor.html](editor.html)
- - [load-file.php](load-file.php)
- - [save-file.php](save-file.php)
- - [list-files.php](list-files.php)
- - [list-directories.php](list-directories.php)
- - [README.md](README.md)
- - [readme.html](readme.html)
- - [spore.php](spore.php)
- - [meta-spore.php](meta-spore.php)
- - [spore.json](spore.json)
- - [wall.txt](wall.txt)
+```
+sudo curl -o spore.php https://raw.githubusercontent.com/LafeLabs/southplatte.net/refs/heads/main/spore.php
+php spore.php
+ ```

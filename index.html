@@ -4,29 +4,25 @@
     <meta charset="utf-8">
 
     <!-- 
+trash magic spore
 
-        EVERYTHING IS PHYSICAL 
-        EVERYTHING IS FRACTAL
-        EVERYTHING IS RECURSIVE
-        NO MONEY 
-        NO MINING 
-        NO PROPERTY
-        LOOK AT THE INSECTS
-        LOOK AT THE FUNGI
-        LANGUAGE IS HOW THE MIND PARSES REALITY
+github.com/lafelabs/spore/
 
     -->
-    <title>INTERNET OF STICKS</title>
+    <title>FULL STACK TRASH MAGIC</title>
 <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAZ4efAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEREREREREREREREREREREREAAAAAAAAREQEREREREBERAREREREQEREBEAAAARAREQEQEREBEBERARAQAQEQEREBEBABARAREQEQEREBEBERARAAAAEQEREBERERERAREQEREREREBERAAAAAAAAEREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon">
 
     <!--Stop Google:-->
 <META NAME="robots" CONTENT="noindex,nofollow">
 <script src = "https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<script src = "spore.js"></script>
 </head>
 <body>
     <div id = "qrcode"></div>
-    <h1 id = "title">INTERNET OF STICKS</h1>
+    <a id = "link" style = "color:#ff2cb4; background-color:black; font-family:courier; position:absolute; left:25%; top:1em; z-index:666; font-size:3em;" href= "https://github.com/lafelabs/spore/">/spore/</a>
+    <h1 id = "title">[DOMAIN].[TLD]</h1>
     <textarea id = "wall"></textarea>
+    
 <script>
 
 codesquaresize = 150;
@@ -39,26 +35,45 @@ qrcode = new QRCode(document.getElementById("qrcode"), {
 	correctLevel : QRCode.CorrectLevel.H
 });
 
-wall = "";
-var httpc = new XMLHttpRequest();
-httpc.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-        wall = this.responseText;
-        document.getElementById("wall").value = wall;  
+
+load_file('wall.txt').then(
+    wall => {
+        document.getElementById("wall").value = wall;
+        load_file('spore.json').then(
+            spore_text => {
+                spore = JSON.parse(spore_text);
+                list_files().then(files => {
+                    code_files = [];
+                    for(let index = 0;index < files.length;index++){
+                        if(files[index].endsWith(".txt") || files[index].endsWith(".html") || files[index].endsWith(".css")  || files[index].endsWith(".js")  || files[index].endsWith(".json")  || files[index].endsWith(".php")  || files[index].endsWith(".md")  || files[index].endsWith(".txt")  || files[index].endsWith(".sh")  || files[index].endsWith(".bat")  || files[index].endsWith(".ipynb")  || files[index].endsWith(".txt")  || files[index].endsWith(".py")){
+                            code_files.push(files[index]);
+                        }
+                    }
+                    spore.files = code_files;
+                    spore.wall = wall;
+                    document.getElementById("link").href = spore.link.href;
+                    document.getElementById("link").innerHTML = spore.link.text;
+                    document.getElementById("title").innerHTML = spore.title;
+                    data = encodeURIComponent(JSON.stringify(spore,null,"    "));
+                    save_file("spore.json",data);
+                });
+            }
+        );
+
     }
-};
-httpc.open("GET", "load-file.php?filename=wall.txt", true);
-httpc.send();
+);
+
+
 
 document.getElementById("wall").onkeyup = function() {
+    
     wall = this.value;
     data = encodeURIComponent(this.value);
-    var httpc = new XMLHttpRequest();
-    var url = "save-file.php";        
-    httpc.open("POST", url, true);
-    httpc.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;charset=utf-8");
-    httpc.send("data="+data+"&filename=wall.txt");//send text to save-file.php
+    save_file("wall.txt",data);
+    
 }
+
+
 
 
 </script>

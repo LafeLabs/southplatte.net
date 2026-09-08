@@ -1,4 +1,6 @@
-<a href = "spork/index.html">spork/index.html</a>
+<a href = "/index.html">/index.html
+</a>
+
 <style>
 body{
     font-size:3em;

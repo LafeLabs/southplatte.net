@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <!-- 
+
+u
+s
+g
+s
+
+    -->
+    <title>usgs</title>
+<link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAZ4efAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEREREREREREREREREREREREAAAAAAAAREQEREREREBERAREREREQEREBEAAAARAREQEQEREBEBERARAQAQEQEREBEBABARAREQEQEREBEBERARAAAAEQEREBERERERAREQEREREREBERAAAAAAAAEREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon">
+
+    <!--Stop Google:-->
+<META NAME="robots" CONTENT="noindex,nofollow">
+<script src = "https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+</head>
+<body>
+    <div id = "qrcode"></div>
+    <br>
+    <div id = "linkfeed"></div>
+<script>
+
+codesquaresize = 150;
+qrcode = new QRCode(document.getElementById("qrcode"), {
+	text: window.location.href,
+	width: codesquaresize,
+	height: codesquaresize,
+	colorDark : "#000000",
+	colorLight : "#ffffff",
+	correctLevel : QRCode.CorrectLevel.H
+});
+
+fetch('load-file.php?filename=usgs.json')
+  .then(response => response.text())
+  .then(data => {
+    usgs = JSON.parse(data.trim());
+    loadGages();
+});
+
+function loadGages(){
+    for (const gaugeId in usgs) {
+      if (usgs.hasOwnProperty(gaugeId)) {
+        const details = usgs[gaugeId];
+        let newa = document.createElement("A");
+        newa.innerHTML = `${gaugeId}:${details.name}`;
+        newa.href = "https://www.openstreetmap.org/#map=17/" +  details.lat + "/" + details.lon;
+        document.getElementById("linkfeed").appendChild(newa);
+        console.log(`${gaugeId}:${details.name}`);
+        console.log(`Location: ${details.lat}, ${details.lon}`);
+        console.log("-------------------");
+      }
+    }
+
+}
+</script>
+<style>
+body{
+    font-family:arial;
+    background-color:blue;
+}
+#linkfeed a{
+    display: block;
+    color:white;
+}
+
+</style>
+</body>
+</html>
