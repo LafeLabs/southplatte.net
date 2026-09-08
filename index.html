@@ -56,6 +56,7 @@ load_file('wall.txt').then(
                     document.getElementById("title").innerHTML = spore.title;
                     data = encodeURIComponent(JSON.stringify(spore,null,"    "));
                     save_file("spore.json",data);
+                    
                 });
             }
         );
