@@ -4,6 +4,7 @@
 
 # [localhost/southplatte.net/readme.html](http://localhost/southplatte.net/readme.html)
 
+# Internet of Sticks
 
 ![](stick.png)
  
@@ -13,3 +14,4 @@
 sudo curl -o spore.php https://raw.githubusercontent.com/LafeLabs/southplatte.net/refs/heads/main/spore.php
 php spore.php
  ```
+ 
