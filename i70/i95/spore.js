@@ -47,21 +47,3 @@ function list_branches(){
     });
 }
 
-function set_instrument_state(name,state){
-    
-}
-
-function get_instrument_state(name){
-    
-}
-
-function get_instrument_plot(name){
-    
-}
-
-function save_instrument_trace(name){
-    //vna
-    //spa
-    //sdr
-}
-
