@@ -1,5 +1,11 @@
+# [github.com/LafeLabs/southplatte.net](https://github.com/LafeLabs/southplatte.net)
 
-# [south platte dot net](https://github.com/LafeLabs/southplatte.net)
+# [southplatte.net](https://southplatte.net)
+
+# [localhost/southplatte.net/readme.html](http://localhost/southplatte.net/readme.html)
+
+
+![](stick.png)
  
 ## REPLICATION:
 
