@@ -1,1 +1,8 @@
-[".htaccess","PLATTE","README.md","branch.html","create-branch.php","delete-branch.html","delete-branch.php","delete-file.html","delete-file.php","delete-fork.php","editor.html","fork.php","index.html","links.html","list-branches.php","list-directories.php","list-files.php","load-file.php","meta-spore.php","qrcode.html","readme.html","save-file.php","south_platte_24hr.json","south_platte_river_usgs_stream_gauges.json","spore.html","spore.js","spore.json","spore.php","spore.py","spore.sh","spork","template.conf.txt","usgs.html","usgs.json","usgs.py","wall.txt"]
+<?php
+
+    $directoryName = isset($_GET["directory"]) ? basename($_GET["directory"]) : '';
+    $targetPath = getcwd() . '/' . $directoryName;
+    $files = array_diff(scandir($targetPath), ['.', '..']);
+    echo json_encode(array_values($files));
+
+?>
