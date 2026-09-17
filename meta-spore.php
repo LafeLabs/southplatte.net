@@ -2,38 +2,21 @@
 <br>
 <br>
 <pre>
-[
-    "README.md",
-    "branch.html",
-    "create-branch.php",
-    "delete-branch.html",
-    "delete-branch.php",
-    "delete-file.html",
-    "delete-file.php",
-    "delete-fork.php",
-    "editor.html",
-    "fork.php",
-    "index.html",
-    "links.html",
-    "list-branches.php",
-    "list-directories.php",
-    "list-files.php",
-    "load-file.php",
-    "meta-spore.php",
-    "qrcode.html",
-    "readme.html",
-    "save-file.php",
-    "south_platte_24hr.json",
-    "south_platte_river_usgs_stream_gauges.json",
-    "spore.html",
-    "spore.js",
-    "spore.json",
-    "spore.php",
-    "spore.py",
-    "template.conf.txt",
-    "usgs.html",
-    "usgs.json",
-    "usgs.py",
-    "wall.txt"
-]</pre>
+<?php
+
+    $files = scandir(getcwd());
+
+    $file_set =[];     
+    foreach($files as $value){
+        if( substr($value,-5) == ".html" || substr($value,-5) == ".json" || substr($value,-4) == ".css" || substr($value,-3) == ".js" || substr($value,-3) == ".md" || substr($value,-4) == ".txt" || substr($value,-6) == ".ipynb" || substr($value,-4) == ".php"  || substr($value,-3) == ".py"){
+            array_push($file_set,$value);
+        }
+    }
+
+    echo json_encode($file_set,JSON_PRETTY_PRINT);
+    $file = fopen("spore.json","w");// create new file with this name
+    fwrite($file,json_encode($file_set,JSON_PRETTY_PRINT)); //write data to file
+    fclose($file);  //close file
+?>
+</pre>
 <br>
