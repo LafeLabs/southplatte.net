@@ -1,5 +1,19 @@
 # [Internet of Sticks](https://github.com/LafeLabs/southplatte.net)
 
+*WRITE THE DOMAIN ON A STICK AND BRING THE STICK TO THE RIVER!*
+
+*INTERNET OF STICKS!*
+
+*THE MEDIUM IS THE MESSAGE!*
+
+*THE MEDIUM IS DRIFT WOOD AND MARKER AND PAINT PEN!*
+
+*THE PLATFORM IS THE GLOBAL NETWORK OF RIVERS AND STREAMS AND HIGHWAYS!*
+
+*SELF REPLICATING HTML!*
+
+*BECOME THE FUNGUS!*
+
 [![](stick.png)](https://www.openstreetmap.org/#map=19/39.754728/-105.008223)
 
 [![](stick2.png)](https://www.openstreetmap.org/#map=19/39.754728/-105.008223)
