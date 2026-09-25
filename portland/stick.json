@@ -1,0 +1,9 @@
+{
+  "name":"internet-of-sticks",
+  "description":"stick with www.southplatte.net written on it and placed at an exchange node",
+  "operator":"https://github.com/lafelabs/",
+  "wall":"https://southplatte.net/",
+  "spore":"https://github.com/lafelabs/southplatte.net",
+  "node":"https://www.openstreetmap.org/#map=19/39.754515/-105.007769",
+  "mission":"more sticks, more nodes, more servers"
+}
