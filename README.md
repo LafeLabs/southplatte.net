@@ -16,7 +16,17 @@
 
 *CLICK ANY IMAGE BELOW TO FIND PHYSICAL STICK FEED!*
 
+
 [![](stick.png)](https://www.openstreetmap.org/#map=19/39.754728/-105.008223)
+
+[![](stick-cherry-creek-branch.png)](https://www.openstreetmap.org/#map=19/39.754728/-105.008223)
+
+[![](stick-downstream.png)](https://www.openstreetmap.org/#map=19/39.754728/-105.008223)
+
+[![](little-stick.png)](https://www.openstreetmap.org/#map=19/39.754728/-105.008223)
+
+
+[![](log-and-trash.png)](https://www.openstreetmap.org/#map=19/39.754728/-105.008223)
 
 [![](stick2.png)](https://www.openstreetmap.org/#map=19/39.754728/-105.008223)
 
