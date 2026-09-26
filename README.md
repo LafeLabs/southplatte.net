@@ -30,6 +30,10 @@
 
 [![](stick2.png)](https://www.openstreetmap.org/#map=19/39.754728/-105.008223)
 
+[![](up-river.png)](https://www.openstreetmap.org/#map=19/39.754728/-105.008223)
+
+
+
 [![](log1.png)](https://www.openstreetmap.org/#map=19/39.754728/-105.008223)
 
 [![](log2.png)](https://www.openstreetmap.org/#map=19/39.754728/-105.008223)
